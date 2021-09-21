@@ -1,0 +1,14 @@
+var count = 99;
+function beer (){
+while (count > 1){
+
+    console.log (count + "bottles of beer on the wall,"+  count + "bottles of beer.Take one down and pass it around,"
+ + --count + "bottles of beer on the wall.")
+}
+ {
+    console.log (count + "bottles of beer on the wall,"+  count + "bottles of beer.Take one down and pass it around,"
+  + "no more bottles of beer on the wall.")
+}
+count--
+}
+ 
